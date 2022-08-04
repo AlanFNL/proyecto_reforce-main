@@ -1,0 +1,117 @@
+.class_partners_container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 300px;
+    align-items: center;
+}
+
+.class_partners_title {
+    font-family: "Monserrat", sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+    color: white;
+}
+
+.class_partners_carousel_container {
+    /* display: flex; */
+    width: 90%;
+    margin-top: 100px;
+    border-color: white;
+    border-radius: 30px;
+    box-shadow: inset 5px 5px 35px #6800FF;
+    position: relative;
+}
+
+.slick-slide {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    height: 450px !important;
+    transition: 1s;
+}
+
+.class_slider {
+    border-style: solid;
+    border-color: white;
+}
+
+.class_partners_carousel_button_container {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    opacity: 0;
+    transition: 0.25s;
+}
+
+.class_partners_carousel {
+    display: flex;
+    border-style: solid;
+    padding: 15px;
+    border-color: #e23b3b;
+    height: 75% !important;
+    /* box-shadow: 0px 0px 5px */
+    transition: 1s;
+    box-shadow: 0px 0px 5px #e23b3b; 
+    border-radius: 10px;
+    width: 200px;
+    filter: blur(2px);
+}
+
+.slick-center .class_partners_carousel {
+    border-color: #0059ff;
+    box-shadow: 0px 0px 20px #0059ff; 
+    animation-name: class_animation_effect_box;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+    filter: initial !important;
+}
+
+@keyframes class_animation_effect_box {
+    to {
+        box-shadow: 0px 0px 10px #72a1f8;
+    }
+}
+
+.slick-center .class_partners_carousel_button_container {
+    opacity: 1;
+}
+
+.class_partners_carousel_button_container a {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 50px;
+    border-color: #ff7575;
+    color: #7648f5;
+    outline: none;
+    padding: 7px;
+    font-size: 14px;
+    background: white;
+    text-decoration: none;
+    border-style: solid;
+}
+
+.class_partners_carousel_button_container a svg {
+    width: 15px;
+    height: 15px;
+}
+
+.class_partners_carousel_button_container a svg path {
+    fill: #ff7575;
+}
+
+.class_partners_carousel_image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 150px; */
+    height: 150px;
+}
+
+.class_partners_carousel_image img {
+    width: 150px;
+    height: 150px;
+}
+

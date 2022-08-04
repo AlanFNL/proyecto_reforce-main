@@ -1,0 +1,77 @@
+.class_icons_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+.class_icon_container {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+}
+
+.class_icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Monserrat", sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.class_icon_image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border-width: 1px;
+    border-color: red;
+    border-style: solid;
+}
+
+.class_icon_image svg {
+    width: 65px;
+    height: 65px;
+}
+
+.class_icon_image svg path {
+    fill: white;
+}
+
+.class_icon_title {
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.class_icon_subtitle {
+    display: flex;
+    height: 150px;
+    transition: 0.5s;
+    text-align: center;
+    width: 250px;
+    margin-top: 25px;
+}
+
+.class_icon_subtitle_description {
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    font-family: "Monserrat", sans-serif;
+    line-height: 30px;
+    transition: 1s;
+}
+
+.class_icon_subtitle_effect {
+    filter: blur(25px);
+    margin-top: -50px !important;
+    opacity: 0;
+
+}

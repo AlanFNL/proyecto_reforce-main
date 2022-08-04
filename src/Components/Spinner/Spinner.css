@@ -1,0 +1,17 @@
+.class_spinner {
+    display: block;
+    border-style: solid;
+    border-radius: 100%;
+    border-top-color: red;
+    width: 15px;
+    height: 15px;
+    animation-name: class_effect_spinner;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes class_effect_spinner {
+    to {
+        transform: rotate(360deg);
+    }
+}
