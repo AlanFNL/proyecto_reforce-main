@@ -50,6 +50,7 @@ const items_light = [
     Image5Light,
     Image6Light,
     Image7Light
+    
 ]
 
 const items_color = [
