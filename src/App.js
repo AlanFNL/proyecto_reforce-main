@@ -12,7 +12,7 @@ import Contact from "./Components/Contact/Contact.js";
 import Dividor from "./Barra.gif";
 
 import { ContextProvider } from "./Components/GlobalContext/GlobalContext.js";
-import Footer from "./Components/Footer/Footer.js";
+
 import { useEffect } from "react";
 
 import "./Components/i18n/i18n.js";
@@ -36,7 +36,7 @@ const App = () => {
                 <Partners/>
                 <Team/>
                 <Contact/>
-                <Footer/>
+
             </ContextProvider>
         </div>
     )
