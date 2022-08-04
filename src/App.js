@@ -8,6 +8,7 @@ import OurVerticals from "./Components/OurVerticals/OurVerticals.js";
 import Partners from "./Components/Partners/Partners.js";
 import Team from "./Components/Team/Team.js";
 import Contact from "./Components/Contact/Contact.js";
+import Footer from "./Components/Footer/Footer.js";
 
 import Dividor from "./Barra.gif";
 
@@ -36,6 +37,7 @@ const App = () => {
                 <Partners/>
                 <Team/>
                 <Contact/>
+                <Footer/>
 
             </ContextProvider>
         </div>

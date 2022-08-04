@@ -26,6 +26,8 @@ import Image4Light from "./images/image_4_light.png";
 import Image5Light from "./images/image_5_light.png";
 import Image6Light from "./images/image_6_light.png";
 import Image7Light from "./images/image_7_light.png";
+import Image8Light from "./images/image_8_light.png";
+
 
 import PlayIcon from "./images/PlayIcon.js";
 
@@ -36,7 +38,8 @@ const items_url = [
     "https://milenium.group/",
     "https://www.sandbox.game/en/",
     "https://www.fije.org/",
-    "https:jadawdawdawdaw"
+    "https://it-techgroup.com/",
+
 ]
 
 const items_light = [
@@ -46,7 +49,9 @@ const items_light = [
     Image4Light,
     Image5Light,
     Image6Light,
-    Image7Light
+    Image7Light,
+    Image8Light
+   
 ]
 
 const items_color = [
