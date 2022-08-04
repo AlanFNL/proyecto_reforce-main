@@ -26,7 +26,6 @@ import Image4Light from "./images/image_4_light.png";
 import Image5Light from "./images/image_5_light.png";
 import Image6Light from "./images/image_6_light.png";
 import Image7Light from "./images/image_7_light.png";
-import Image8Light from "./images/image_8_light.png";
 
 
 import PlayIcon from "./images/PlayIcon.js";
