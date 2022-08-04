@@ -32,8 +32,8 @@ const items_url = [
     "https://clo.com.ar/",
     "https://www.linkedin.com/company/mycorrhiza/posts/?feedView=all",
     "https://www.unaje.org.ar/",
-    "https://merovingiandata.com/es/",
-    "https://it-techgroup.com/",
+    "https://milenium.group/",
+    "https://www.sandbox.game/en/",
     "https://www.fije.org/"
 ]
 
