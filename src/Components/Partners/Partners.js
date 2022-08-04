@@ -38,7 +38,7 @@ const items_url = [
     "https://milenium.group/",
     "https://www.sandbox.game/en/",
     "https://www.fije.org/",
-    "https://it-techgroup.com/",
+    "https://it-techgroup.com/"
 
 ]
 
@@ -49,9 +49,7 @@ const items_light = [
     Image4Light,
     Image5Light,
     Image6Light,
-    Image7Light,
-    Image8Light
-   
+    Image7Light
 ]
 
 const items_color = [
