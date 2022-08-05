@@ -50,7 +50,7 @@ const Team = () => {
                     </a>
                     
 
-                    <a href="mailto:Bautista@reforceinfinity.com?subject=Questions" className="class_team_image_send_email">{t("teamSendMessage")}</a>
+                    <a href="mailto:Fausto@reforceinfinity.com?subject=Questions" className="class_team_image_send_email">{t("teamSendMessage")}</a>
                 </div>
 
                 <div className="class_team_image class_animation_effect">
@@ -84,7 +84,7 @@ const Team = () => {
                     </a>
                         
 
-                    <a href="mailto:Bautista@reforceinfinity.com?subject=Questions" className="class_team_image_send_email">{t("teamSendMessage")}</a>
+                    <a href="mailto:Rodrigo@reforceinfinity.com?subject=Questions" className="class_team_image_send_email">{t("teamSendMessage")}</a>
                 </div>
             </div>
         </div>
