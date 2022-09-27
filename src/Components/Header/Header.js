@@ -3,7 +3,7 @@ import "./Header.css";
 
 
 import Image from "./images/background.png";
-import Logo from "../OurVerticals/images/Logo.mp4";
+import Logo from "../OurVerticals/images/Logo.gif";
 
 import { useInView } from "react-intersection-observer";
 
@@ -48,9 +48,7 @@ const Header = () => {
             <div className="class_header_background"/>
 
             <div ref={ref} className="class_header_logo_container">
-                <video>
-                <source ref={imageRef} src={Logo} type="video/mp4" className="class_header_logo class_header_logo_effect"/>
-                    </video> 
+                <img ref={imageRef} src={Logo} className="class_header_logo class_header_logo_effect"/>
                 
 
                 <div ref={titleRef} className="class_header_logo_title_container class_header_logo_title_container_effect">
