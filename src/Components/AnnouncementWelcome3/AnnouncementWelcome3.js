@@ -41,7 +41,7 @@ const AnnouncementWelcome3 = () => {
                 <div className="class_announcement_welcome_message">
                     <span ref={refTitle} className="class_announcement_welcome_message_title_container">
                         <span className={"class_announcement_welcome_message_title class_animation_text_effect" + ((inViewTitle) ? "" : " class_announcement_welcome_message_effect")}>
-                            {t("headerTitle")}
+                            {t("headerTitle3")}
                         </span>
 
                         {/* <span className="class_announcement_welcome_message_subtitle">Somos un portal al Metaverso.</span> */}

@@ -12,6 +12,8 @@ const resources = {
             "menuTeam": "TEAM",
             "menuContact": "CONTACT",
             "headerTitle": "Welcome to Reforce Infinity",
+            "headerTitle2": "Metaverse Studio",
+            "headerTitle3": "NFT Factory",
             "headerSubTitle": "We are a portal to the Metaverse. Focused on a specialized B2B model in providing development to institutions and organizations in the metaverse.",
             "iconTailorMade": "TAILOR MADE",
             "iconTailorMadeDescription": "We analyze your needs and potential, and offer you a solution tailored to your organization or institution.",
