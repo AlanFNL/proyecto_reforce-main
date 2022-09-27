@@ -6,7 +6,7 @@ import "./AnnouncementWelcome.css";
 import Image from "./images/3DMan.webp";
 // import Image from "./images/image.png";
 
-const AnnouncementWelcome2 = () => {
+const AnnouncementWelcome3 = () => {
 
     const { t, setItemPosition, elementRef, setElementRef } = useContext(GlobalContext);
     
@@ -56,4 +56,4 @@ const AnnouncementWelcome2 = () => {
     );
 }
 
-export default AnnouncementWelcome2;
+export default AnnouncementWelcome3;
