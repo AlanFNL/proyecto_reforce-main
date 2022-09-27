@@ -54,8 +54,8 @@ const Header = () => {
                     <div className="class_header_line_separated"/>
 
                     <div className="class_header_title">
-                        <span>REFORCE</span>
-                        <span className="class_header_logo_title_font">INFINITY</span>
+                        <span></span>
+                        <span className="class_header_logo_title_font"></span>
                     </div>
                 </div>
             </div>
