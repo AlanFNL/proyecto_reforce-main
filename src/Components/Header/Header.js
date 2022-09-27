@@ -48,7 +48,9 @@ const Header = () => {
             <div className="class_header_background"/>
 
             <div ref={ref} className="class_header_logo_container">
-                <video ref={imageRef} src={Logo} className="class_header_logo class_header_logo_effect"/>
+                <video>
+                <source ref={imageRef} src={Logo} type="video/mp4" className="class_header_logo class_header_logo_effect"/>
+                    </video> 
                 
 
                 <div ref={titleRef} className="class_header_logo_title_container class_header_logo_title_container_effect">
