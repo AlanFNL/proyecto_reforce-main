@@ -12,8 +12,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgb(138,7,133);
-background: linear-gradient(90deg, rgba(138,7,133,1) 0%, rgba(22,0,87,1) 100%);
+    background: rgb(0, 0, 0);
     width: 90%;
     height: 80%;
     border-radius: 30px;
