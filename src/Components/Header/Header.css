@@ -77,13 +77,7 @@
     flex-direction: column;
 }
 
-.class_header_line_separated {
-    border-style: solid;
-    border-color: white;
-    margin-right: 25px;
-    height: 175px;
-    border-width: 1px;
-}
+
 
 .class_header_logo_title_font {
     font-family: "Poppins", sans-serif !important;

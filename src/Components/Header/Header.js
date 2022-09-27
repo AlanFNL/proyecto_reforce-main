@@ -51,7 +51,7 @@ const Header = () => {
                 <img ref={imageRef} src={Logo} className="class_header_logo class_header_logo_effect"/>
 
                 <div ref={titleRef} className="class_header_logo_title_container class_header_logo_title_container_effect">
-                    <div className="class_header_line_separated"/>
+                    
 
                     <div className="class_header_title">
                         <span></span>
