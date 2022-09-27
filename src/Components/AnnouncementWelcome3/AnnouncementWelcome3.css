@@ -8,11 +8,12 @@
 
 }
 
-.class_announcement_welcome_message_container {
+.class_announcement_welcome_message_container3 {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: black;
+    background: rgb(93,12,163);
+    background: radial-gradient(circle, rgba(93,12,163,1) 0%, rgba(112,10,122,1) 100%);
     width: 90%;
     height: 80%;
     border-radius: 30px;

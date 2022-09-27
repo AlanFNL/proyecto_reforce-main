@@ -36,7 +36,7 @@ const AnnouncementWelcome3 = () => {
 
     return(
         <div ref={positionRef} className="class_announcement_welcome_container">
-            <div ref={ref} className="class_announcement_welcome_message_container">
+            <div ref={ref} className="class_announcement_welcome_message_container3">
             <img loading="lazy" src={Image} className="class_announcement_welcome_message_image"/>
                 <div className="class_announcement_welcome_message">
                     <span ref={refTitle} className="class_announcement_welcome_message_title_container">
