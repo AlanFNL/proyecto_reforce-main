@@ -3,7 +3,7 @@ import { useInView } from "react-intersection-observer";
 import GlobalContext from "../GlobalContext/GlobalContext.js";
 import "./AnnouncementWelcome.css";
 
-import Image from "./images/3DMan.gif";
+import Image from "./images/3DMan2.gif";
 // import Image from "./images/image.png";
 
 const AnnouncementWelcome = () => {
