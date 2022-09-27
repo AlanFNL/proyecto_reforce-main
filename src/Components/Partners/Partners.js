@@ -19,25 +19,25 @@ import Image4 from "./images/image_4.png";
 import Image5 from "./images/image_5.png";
 import Image6 from "./images/image_6.png";
 
-import Image1Light from "./images/image_1_light.png";
+import Image1Light from "./images/image_8_light.png";
 import Image2Light from "./images/image_2_light.png";
 import Image3Light from "./images/image_3_light.png";
 import Image4Light from "./images/image_4_light.png";
 import Image5Light from "./images/image_5_light.png";
 import Image6Light from "./images/image_6_light.png";
-import Image7Light from "./images/image_7_light.png";
+import Image7Light from "./images/image_9_light.png";
 
 
 import PlayIcon from "./images/PlayIcon.js";
 
 const items_url = [
-    "https://clo.com.ar/",
+    "https://www.uala.com.ar/",
     "https://www.linkedin.com/company/mycorrhiza/posts/?feedView=all",
     "https://www.unaje.org.ar/",
     "https://milenium.group/",
     "https://www.sandbox.game/en/",
     "https://www.fije.org/",
-    "https://it-techgroup.com/"
+    "http://www.pepsicoargentina.com/"
 
 ]
 
