@@ -2,6 +2,7 @@ import "./App.css";
 
 import Header from "./Components/Header/Header.js";
 import AnnouncementWelcome from "./Components/AnnouncementWelcome/AnnouncementWelcome.js";
+import AnnouncementWelcome2 from "./Components/AnnouncementWelcome/AnnouncementWelcome2.js";
 import Icons from "./Components/Icons/Icons.js";
 import Menu from "./Components/Menu/Menu.js";
 import OurVerticals from "./Components/OurVerticals/OurVerticals.js";
@@ -34,6 +35,7 @@ const App = () => {
                 </div>
 
                 <OurVerticals/>
+                <AnnouncementWelcome2/>
                 <Partners/>
                 <Team/>
                 <Contact/>
