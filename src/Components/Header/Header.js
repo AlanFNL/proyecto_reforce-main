@@ -3,7 +3,7 @@ import "./Header.css";
 
 
 import Image from "./images/background.png";
-import Logo from "../OurVerticals/images/ReforceLogo.gif";
+import Logo from "../OurVerticals/images/Logo.gif";
 
 import { useInView } from "react-intersection-observer";
 
