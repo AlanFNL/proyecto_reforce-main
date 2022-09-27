@@ -1,12 +1,12 @@
 import { useContext, useEffect, useRef } from "react";
 import { useInView } from "react-intersection-observer";
 import GlobalContext from "../GlobalContext/GlobalContext.js";
-import "./AnnouncementWelcome.css";
+import "./AnnouncementWelcome2.css";
 
 import Image from "./images/ReforLogo.png";
 // import Image from "./images/image.png";
 
-const AnnouncementWelcome3 = () => {
+const AnnouncementWelcome2 = () => {
 
     const { t, setItemPosition, elementRef, setElementRef } = useContext(GlobalContext);
     
@@ -56,4 +56,4 @@ const AnnouncementWelcome3 = () => {
     );
 }
 
-export default AnnouncementWelcome3;
+export default AnnouncementWelcome2;

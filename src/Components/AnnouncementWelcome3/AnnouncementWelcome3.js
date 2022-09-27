@@ -1,7 +1,7 @@
 import { useContext, useEffect, useRef } from "react";
 import { useInView } from "react-intersection-observer";
 import GlobalContext from "../GlobalContext/GlobalContext.js";
-import "./AnnouncementWelcome.css";
+import "./AnnouncementWelcome3.css";
 
 import Image from "./images/ReforLogo.png";
 // import Image from "./images/image.png";
