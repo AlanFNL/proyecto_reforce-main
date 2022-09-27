@@ -3,6 +3,7 @@ import "./App.css";
 import Header from "./Components/Header/Header.js";
 import AnnouncementWelcome from "./Components/AnnouncementWelcome/AnnouncementWelcome.js";
 import AnnouncementWelcome2 from "./Components/AnnouncementWelcome2/AnnouncementWelcome2.js";
+import AnnouncementWelcome3 from "./Components/AnnouncementWelcome2/AnnouncementWelcome3.js";
 import Icons from "./Components/Icons/Icons.js";
 import Menu from "./Components/Menu/Menu.js";
 import OurVerticals from "./Components/OurVerticals/OurVerticals.js";
@@ -36,6 +37,7 @@ const App = () => {
 
                 <OurVerticals/>
                 <AnnouncementWelcome2/>
+                <AnnouncementWelcome3/>
                 <Partners/>
                 <Team/>
                 <Contact/>
