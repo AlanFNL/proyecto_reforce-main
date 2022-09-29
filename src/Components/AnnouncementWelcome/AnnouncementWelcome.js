@@ -37,6 +37,7 @@ const AnnouncementWelcome = () => {
     return(
         <div ref={positionRef} className="class_announcement_welcome_container">
             <div ref={ref} className="class_announcement_welcome_message_container">
+            <img loading="lazy" src={Image} className="class_announcement_welcome_message_image"/>
                 <div className="class_announcement_welcome_message">
                     <span ref={refTitle} className="class_announcement_welcome_message_title_container">
                         <span className={"class_announcement_welcome_message_title class_animation_text_effect" + ((inViewTitle) ? "" : " class_announcement_welcome_message_effect")}>
@@ -50,7 +51,7 @@ const AnnouncementWelcome = () => {
                     </span>
                 </div>
 
-                <img loading="lazy" src={Image} className="class_announcement_welcome_message_image"/>
+                
             </div>
         </div>
     );
