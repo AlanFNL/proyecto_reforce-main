@@ -72,9 +72,9 @@ const Menu = () => {
                     }
                         <li style={{marginTop: "30px"}}>
                             <div className="class_menu_languaje">
-                                <span className={(languaje === "en") ? "class_effect_languaje" : ""} onClick={() => setLanguaje("en")}>EN</span>
-                                <div>|</div>
                                 <span className={(languaje === "es") ? "class_effect_languaje" : ""} onClick={() => setLanguaje("es")}>ES</span>
+                                <div>|</div>
+                                <span className={(languaje === "en") ? "class_effect_languaje" : ""} onClick={() => setLanguaje("en")}>EN</span>
                              </div>
                         </li>
                     </ul>
