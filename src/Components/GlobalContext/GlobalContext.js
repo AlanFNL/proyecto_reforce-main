@@ -10,7 +10,7 @@ const GlobalContext = createContext();
 export const ContextProvider = ({children}) => {
     const [itemPosition, setItemPosition] = useState(0);
     const [elementRef, setElementRef] = useState([]);
-    const [languaje, setLanguaje] = useState("en");
+    const [languaje, setLanguaje] = useState("es");
 
     const { t, i18n } = useTranslation();
 
