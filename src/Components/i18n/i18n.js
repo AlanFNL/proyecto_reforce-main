@@ -61,6 +61,7 @@ const resources = {
             "headerTitle3": "NFT Factory",
             "headerSubTitle": "Somos una agencia web3, tu portal a las nuevas tecnologías. Te ayudamos a potenciar tu marca en la web inmersiva.",
             "headerSubTitle2": "Desarrollamos campañas en el Metaverso, con el objetivo de crear experiencias inmersivas para la próxima generación de usuarios. Ayudamos a las empresas a generar nuevos espacios virtuales, donde puedan expandir su presencia, potenciar su marca e innovar los servicios para su comunidad. ",
+            "headerSubTitle3": "Sumamos los NFTs a tu estructura con el objetivo de evolucionar el nivel de relación entre tu marca y tu audiencia: Fusionando la tecnología con tus modelos de negocio, provocando mayor interacción y fidelización dentro de tu comunidad.",
             "iconTailorMade": "TE ENTENDEMOS",
             "iconTailorMadeDescription": "Analizando tu contexto, identificando tus problemáticas, y desarrollando soluciones a medida.",
             "iconAdoption": "TE PROPONEMOS",
