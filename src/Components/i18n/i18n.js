@@ -56,7 +56,7 @@ const resources = {
             "menuPartners": "SOCIOS",
             "menuTeam": "EQUIPO",
             "menuContact": "CONTACTO",
-            "headerTitle": "Quienes somos",
+            "headerTitle": "QUIENES SOMOS",
             "headerTitle2": "Metaverse Studio",
             "headerTitle3": "NFT Factory",
             "headerSubTitle": "Somos una agencia web3, tu portal a las nuevas tecnologías. Te ayudamos a potenciar tu marca en la web inmersiva.",
