@@ -46,7 +46,7 @@ const AnnouncementWelcome3 = () => {
 
                         {/* <span className="class_announcement_welcome_message_subtitle">Somos un portal al Metaverso.</span> */}
                         <span className={"class_announcement_welcome_message_subtitle" + ((inViewTitle) ? "" : " class_announcement_welcome_message_effect")}>
-                            {t("headerSubTitle")}
+                            {t("headerSubTitle3")}
                         </span>
                     </span>
                 </div>
