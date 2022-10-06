@@ -115,7 +115,7 @@
     padding-left: 0.5rem;
     top: 0.2rem;
     left: 270px;
-    animation: openclose 5s ease-in-out infinite;
+    animation: openclose 8s ease-in-out infinite;
   }
   
   .word1, .word2, .word3, .word4, .word5, .word6{
