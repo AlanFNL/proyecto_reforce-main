@@ -58,10 +58,24 @@ const Header = () => {
                         <span>REFORCE</span>
                         <span className="class_header_logo_title_font">INFINITY</span>
                     </div>
+
+                    
                 </div>
+                <h1 class="h1test">
+                     <span class="spantest">Somos</span>
+                       <div class="message">
+                       <div class="word1">Desarrolladores de metaversos</div>
+                       <div class="word2">Estrategas de NFTs</div>
+                       <div class="word3">Storytellers</div>
+                    
+                         </div>
+                   </h1>
             </div>
+           
         </div>
+        
     )
+
 }
 
 export default Header;
