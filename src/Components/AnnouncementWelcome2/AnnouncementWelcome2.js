@@ -4,6 +4,7 @@ import GlobalContext from "../GlobalContext/GlobalContext.js";
 import "./AnnouncementWelcome2.css";
 
 import Image from "./images/ReforLogo.png";
+import Sandbox from "./images/Sandbox.gif";
 // import Image from "./images/image.png";
 
 const AnnouncementWelcome2 = () => {
@@ -50,7 +51,7 @@ const AnnouncementWelcome2 = () => {
                     </span>
                 </div>
 
-                <img loading="lazy" src={Image} className="class_announcement_welcome_message_image"/>
+                <img loading="lazy" src={Sandbox} className="class_announcement_welcome_message_image"/>
             </div>
         </div>
     );

@@ -12,7 +12,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgb(0, 0, 0);
+    background-color: black;
     width: 90%;
     height: 80%;
     border-radius: 30px;
@@ -31,6 +31,7 @@
     justify-content: center;
     flex-direction: column;
     height: 100%;
+    margin-left: 50px;
     color: white;
 }
 
@@ -56,5 +57,5 @@
 
 .class_announcement_welcome_message_image {
     height: 100%;
-    width: 100%;
+    width: 120%;
 }

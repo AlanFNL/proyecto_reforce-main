@@ -4,6 +4,7 @@ import GlobalContext from "../GlobalContext/GlobalContext.js";
 import "./AnnouncementWelcome3.css";
 
 import Image from "./images/ReforLogo.png";
+import Chester from "./images/chester.gif"
 // import Image from "./images/image.png";
 
 const AnnouncementWelcome3 = () => {
@@ -37,7 +38,7 @@ const AnnouncementWelcome3 = () => {
     return(
         <div ref={positionRef} className="class_announcement_welcome_container">
             <div ref={ref} className="class_announcement_welcome_message_container3">
-            <img loading="lazy" src={Image} className="class_announcement_welcome_message_image"/>
+            <a href="https://www.infobae.com/america/mexico/2021/01/29/por-que-el-famoso-chester-cheetos-desaparecera-de-los-empaques/"><img loading="lazy" src={Chester} className="class_announcement_welcome_message_image"/></a>
                 <div className="class_announcement_welcome_message">
                     <span ref={refTitle} className="class_announcement_welcome_message_title_container">
                         <span className={"class_announcement_welcome_message_title class_animation_text_effect" + ((inViewTitle) ? "" : " class_announcement_welcome_message_effect")}>
